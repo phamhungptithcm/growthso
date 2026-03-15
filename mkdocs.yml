@@ -1,0 +1,100 @@
+site_name: Growth SEO OS
+site_description: Story-first production documentation for the AI-powered SEO and marketing operating system.
+site_author: BeFam Product & Engineering Team
+site_url: https://phamhungptithcm.github.io/growthso-docs/
+repo_url: https://github.com/phamhungptithcm/growthso-docs
+repo_name: phamhungptithcm/growthso-docs
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - content.code.copy
+    - search.suggest
+
+plugins:
+  - i18n:
+      docs_structure: suffix
+      fallback_to_default: true
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: vi
+          name: Tiếng Việt
+          build: true
+          nav_translations:
+            Home: Trang chủ
+            Story: Câu chuyện
+            For Production Owners: Dành cho chủ vận hành
+            Product: Sản phẩm
+            Platform: Nền tảng
+            Architecture: Kiến trúc
+            Operations: Vận hành
+            Roadmap: Lộ trình
+            Reference: Tham chiếu
+  - search
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
+copyright: "© 2026 BeFam. All rights reserved."
+
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - https://unpkg.com/mermaid@10/dist/mermaid.min.js
+  - javascripts/mermaid-init.js
+  - javascripts/release-sync.js
+
+nav:
+  - Home: index.md
+  - Story:
+      - Why We Are Building This: story/why-we-are-building-this.md
+      - Problem & Opportunity: story/problem-and-opportunity.md
+  - For Production Owners:
+      - Executive Brief: owner/executive-brief.md
+      - Business Model & Pricing: owner/business-model-and-pricing.md
+      - Success Metrics & Governance: owner/success-metrics-and-governance.md
+      - Pitch Deck Outline: owner/pitch-deck-outline.md
+  - Product:
+      - Product Vision: product/product-vision.md
+      - Personas & Journey: product/personas-and-journey.md
+      - PRD: product/prd.md
+  - Platform:
+      - Capabilities Overview: platform/capabilities-overview.md
+      - SEO Intelligence Engine: platform/seo-intelligence-engine.md
+      - AI Content Engine: platform/ai-content-engine.md
+      - AI Pipeline & Models: platform/ai-pipeline-and-models.md
+      - Review & Reputation: platform/review-and-reputation.md
+      - Ads Budget Optimizer: platform/ads-budget-optimizer.md
+  - Architecture:
+      - System Overview: architecture/system-overview.md
+      - Microservices: architecture/microservices.md
+      - Kubernetes Production: architecture/kubernetes-production.md
+      - Data Platform: architecture/data-platform.md
+      - Security & Compliance: architecture/security-and-compliance.md
+  - Operations:
+      - DevOps & Release: operations/devops-and-release.md
+      - Incident Response: operations/incident-response.md
+  - Roadmap:
+      - Implementation Roadmap: roadmap/implementation-roadmap.md
+      - Production Launch Checklist: roadmap/production-launch-checklist.md
+  - Reference:
+      - Glossary: reference/glossary.md
+      - Release Notes: reference/release-notes.md
