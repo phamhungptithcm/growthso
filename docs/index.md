@@ -1,45 +1,44 @@
-# Growth SEO OS Documentation
+# GrowthSO Documentation
 
-Growth SEO OS is an AI-powered operating system for SEO and digital growth. This documentation is designed for both production owners and technical teams.
+GrowthSO is an AI Growth Operating System built to help businesses run SEO and digital marketing as one coordinated machine, not separate tools.
 
 ## Document Version
 
-- Version: `1.1.0`
-- Status: `Production-ready documentation baseline`
+- Version: `2.0.0`
+- Status: `Presentation-ready and production-oriented`
 - Last updated: `2026-03-15`
+
+## Founder Intent (Validated from Shared Ideation)
+
+GrowthSO is designed as a **web + mobile platform** to:
+
+- automate SEO and marketing execution,
+- optimize paid budget and improve ROI,
+- push target domains toward top search visibility,
+- increase positive reviews and reduce unresolved negative review impact,
+- make advanced growth operations accessible to non-experts.
 
 ## Start Here by Role
 
-- Production owner: read [Executive Brief](owner/executive-brief.md), then [Success Metrics & Governance](owner/success-metrics-and-governance.md).
-- Product manager: read [Product Vision](product/product-vision.md), then [PRD](product/prd.md).
-- Engineering lead: read [System Overview](architecture/system-overview.md), then [DevOps & Release](operations/devops-and-release.md).
-- GTM or sales: read [Why We Are Building This](story/why-we-are-building-this.md), then [Business Model & Pricing](owner/business-model-and-pricing.md).
+- Production owner: [Executive Brief](owner/executive-brief.md) -> [Presentation Narrative](owner/presentation-narrative.md)
+- Product lead: [Product Vision](product/product-vision.md) -> [Product Strategy & Differentiation](product/product-strategy-and-differentiation.md)
+- Engineering lead: [System Overview](architecture/system-overview.md) -> [90-Day MVP Execution Plan](roadmap/90-day-mvp-execution-plan.md)
+- GTM/sales: [Why We Are Building This](story/why-we-are-building-this.md) -> [Competitive Landscape](reference/competitive-landscape.md)
 
 ## Story Path
 
-The docs follow a deliberate story:
-
-1. Why this platform should exist now.
-2. Which business pain we remove.
-3. What the product promise is.
-4. How we ship and run it reliably in production.
-
 ```mermaid
 flowchart LR
-    A[Why now] --> B[Problem and opportunity]
-    B --> C[Vision and PRD]
-    C --> D[Platform capabilities]
-    D --> E[Production architecture]
-    E --> F[Operations and launch]
+    A[Founder pain and intent] --> B[Market problem]
+    B --> C[Positioning and differentiation]
+    C --> D[Product and platform modules]
+    D --> E[Scalable architecture and operations]
+    E --> F[Execution roadmap and launch]
 ```
 
-## What “Production-Ready” Means Here
+## Definition of “Presentation-Ready”
 
-- Clear ownership and measurable outcomes.
-- Operational playbooks for releases and incidents.
-- Security, reliability, and data architecture documented.
-- A phased roadmap tied to business impact.
-
-## Archive Merge Status
-
-This documentation has been cross-checked against all legacy source docs in `archive_source_docs`. All meaningful content was merged, and placeholder-only pages were intentionally excluded.
+- Clear business narrative for non-technical stakeholders.
+- Concrete product scope and differentiation.
+- Credible architecture for scale to 1M users.
+- Measurable roadmap tied to business outcomes.

@@ -2,17 +2,21 @@
 
 ## Tóm tắt một câu
 
-Growth SEO OS là nền tảng tăng trưởng production kết hợp SEO intelligence, AI content, quản lý review và tối ưu ngân sách ads thành một hệ điều hành có trách nhiệm rõ ràng.
+GrowthSO là nền tảng web + mobile dạng AI Growth Operating System, giúp doanh nghiệp tăng traffic và doanh thu bằng cách hợp nhất SEO, ads, content và review.
+
+## Chúng ta đang xây dựng gì
+
+Nền tảng production gồm 5 module cốt lõi:
+
+1. SEO Intelligence Engine
+2. AI Content Engine
+3. Ads Budget Optimizer
+4. Review & Reputation Automation
+5. Owner Command Center (dashboard KPI và quản trị)
 
 ## Giá trị cho chủ vận hành
 
-- Giảm phụ thuộc vào nhiều công cụ và agency rời rạc.
-- Tăng tốc độ từ insight đến hành động.
-- Theo dõi KPI hợp nhất cho traffic, lead, chi phí và doanh thu.
-- Minh bạch khi review tuần/tháng ở cấp lãnh đạo.
-
-## Kỳ vọng theo quý
-
-- Quý 1: hoàn thiện baseline, tích hợp cốt lõi, chạy workflow tự động đầu tiên.
-- Quý 2: tăng hiệu quả chuyển đổi và báo cáo.
-- Quý 3: khuyến nghị dự đoán và vận hành bán tự động.
+- Giảm phân mảnh công cụ và vendor.
+- Tăng tốc từ insight đến action.
+- Tối ưu ngân sách với trách nhiệm kết quả rõ ràng.
+- Một câu chuyện điều hành thống nhất cho review tuần/tháng.

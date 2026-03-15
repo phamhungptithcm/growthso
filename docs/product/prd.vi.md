@@ -1,31 +1,33 @@
 # PRD (Tài Liệu Yêu Cầu Sản Phẩm)
 
-## Vấn đề
+## Phạm vi sản phẩm
 
-Đội ngũ tăng trưởng đang gặp ba điểm nghẽn lớn: công cụ rời rạc, tối ưu chậm và trách nhiệm kết quả chưa rõ.
+GrowthSO MVP là nền tảng web + mobile cho vận hành SEO và tăng trưởng số có AI hỗ trợ.
 
-## Phạm vi MVP
+## Bài toán
 
-- SEO audit và theo dõi issue
-- Theo dõi thứ hạng từ khóa
-- Tạo nội dung AI có hướng dẫn SEO
-- Theo dõi review và gợi ý phản hồi
-- Gợi ý tối ưu ngân sách ads
-- Dashboard tăng trưởng hợp nhất
+Đội ngũ không thể tối ưu nhanh và nhất quán SEO, ads, content, review khi đang dùng nhiều công cụ rời rạc.
 
-## Yêu cầu chức năng
+## Phạm vi chức năng MVP
 
-1. Onboarding và xác minh domain
-2. Crawl định kỳ và phát hiện lỗi
-3. Cảnh báo biến động từ khóa
-4. Workflow brief và tạo bài
-5. Ingestion review và sentiment tagging
-6. Ingestion ads performance và gợi ý tối ưu
+1. Onboard domain và hồ sơ doanh nghiệp
+2. Crawl SEO, phát hiện issue, theo dõi thứ hạng
+3. AI tạo brief và draft nội dung
+4. Ingestion review, sentiment, gợi ý phản hồi
+5. Ingestion hiệu suất ads, gợi ý tối ưu ngân sách
+6. Dashboard KPI hợp nhất và action queue
 7. Phân quyền theo tổ chức/workspace
 
-## Yêu cầu phi chức năng
+## Mục tiêu kỹ thuật
 
-- Mục tiêu availability: `99.9%`
-- Mục tiêu P95 read API: `< 400ms`
-- SLA dữ liệu báo cáo cập nhật hàng ngày
-- Ghi log đầy đủ cho hành động quan trọng
+- Availability API: `99.9%`
+- P95 API read: `< 400ms`
+- Isolation dữ liệu theo tenant
+- SLA cập nhật dashboard hàng ngày
+- Audit log cho hành động quan trọng
+
+## Mục tiêu scale
+
+- Lộ trình kiến trúc hướng tới `1M users`
+- Event-driven pipeline cho workload bất đồng bộ
+- Horizontal scaling cho API và worker

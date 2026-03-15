@@ -1,23 +1,28 @@
 # Business Model & Pricing
 
-## Packaging Strategy
+## Monetization Strategy
 
-We package by operating complexity, not only by feature count.
+GrowthSO uses a SaaS subscription model with expansion tied to operational depth, automation, and governance needs.
 
-## Proposed Plans
+## Pricing Tiers
 
 - Starter: `$29/month` for early-stage teams.
-- Pro: `$99/month` for growth-stage operators.
-- Agency: `$299/month` for multi-client or multi-brand operations.
+- Pro: `$99/month` for growth operators requiring multi-channel workflows.
+- Agency: `$299/month` for multi-client and multi-brand management.
 
-## Monetization Logic
+## Expansion Paths
 
-- Subscription-first recurring revenue.
-- Expansion via usage and advanced automation.
-- Enterprise uplift via governance, SLA, and white-label support.
+- higher automation limits,
+- advanced analytics and forecasting,
+- governance/SLA packages,
+- white-label and partner capabilities.
 
-## Unit Economics Goals
+## Unit Economics Focus
 
-- Recover onboarding cost quickly through self-serve setup.
-- Keep support burden low with guided automation.
-- Increase retention by making reporting and outcomes visible to owners.
+- Fast onboarding to reduce activation friction.
+- Product-led retention through visible KPI impact.
+- Support efficiency via guided workflows and automation playbooks.
+
+## Strategic Principle
+
+Price by business outcome and operating complexity, not by raw feature count.

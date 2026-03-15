@@ -1,29 +1,40 @@
 # Implementation Roadmap
 
-## Phase 1: MVP Foundation
+## Phase 1: MVP Foundation (0-3 months)
 
-- SEO audit and rank tracking.
+- SEO audit and ranking loops.
 - AI content generation baseline.
-- Review monitoring core integrations.
+- Review monitoring and response assistant.
 - Unified dashboard v1.
 
-## Phase 2: Optimization Layer
+Business proof target:
+
+- measurable decision speed improvement for pilot users.
+
+## Phase 2: Optimization Engine (3-6 months)
 
 - Ads budget optimization workflows.
-- Competitor intelligence.
-- Backlink tracking and authority insights.
-- Improved reporting automation.
+- Competitor and backlink intelligence.
+- Better prioritization logic across channels.
 
-## Phase 3: Autonomous Growth Ops
+Business proof target:
 
-- AI growth agent for prioritized actions.
-- Workflow automation orchestration.
-- Agency and multi-brand white-label capabilities.
+- improved blended CAC and efficiency trends.
 
-## Gate Criteria by Phase
+## Phase 3: Scale and Autonomy (6-12 months)
 
-Each phase requires:
+- AI growth agent for next-best-action orchestration.
+- Workflow automation templates by vertical.
+- Agency and enterprise governance layer.
 
-- KPI validation,
-- reliability targets met,
-- and owner sign-off before expansion.
+Business proof target:
+
+- repeatable multi-tenant growth outcomes with stronger retention.
+
+## Governance Gates
+
+Each phase moves forward only when:
+
+- KPI thresholds are met,
+- reliability targets are stable,
+- and owner sign-off is completed.

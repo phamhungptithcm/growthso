@@ -1,5 +1,5 @@
-site_name: Growth SEO OS
-site_description: Story-first production documentation for the AI-powered SEO and marketing operating system.
+site_name: GrowthSO
+site_description: AI Growth Operating System for SEO, content, ads, and reputation automation.
 site_author: BeFam Product & Engineering Team
 site_url: https://phamhungptithcm.github.io/growthso/
 repo_url: https://github.com/phamhungptithcm/growthso
@@ -67,14 +67,18 @@ nav:
   - Story:
       - Why We Are Building This: story/why-we-are-building-this.md
       - Problem & Opportunity: story/problem-and-opportunity.md
+      - Market Landscape & Positioning: story/market-landscape-and-positioning.md
   - For Production Owners:
       - Executive Brief: owner/executive-brief.md
+      - Investor & Stakeholder Deck: owner/deck.md
+      - Presentation Narrative: owner/presentation-narrative.md
       - Business Model & Pricing: owner/business-model-and-pricing.md
       - Success Metrics & Governance: owner/success-metrics-and-governance.md
       - Pitch Deck Outline: owner/pitch-deck-outline.md
   - Product:
       - Product Vision: product/product-vision.md
       - Personas & Journey: product/personas-and-journey.md
+      - Product Strategy & Differentiation: product/product-strategy-and-differentiation.md
       - PRD: product/prd.md
   - Platform:
       - Capabilities Overview: platform/capabilities-overview.md
@@ -93,8 +97,10 @@ nav:
       - DevOps & Release: operations/devops-and-release.md
       - Incident Response: operations/incident-response.md
   - Roadmap:
+      - 90-Day MVP Execution Plan: roadmap/90-day-mvp-execution-plan.md
       - Implementation Roadmap: roadmap/implementation-roadmap.md
       - Production Launch Checklist: roadmap/production-launch-checklist.md
   - Reference:
+      - Competitive Landscape: reference/competitive-landscape.md
       - Glossary: reference/glossary.md
       - Release Notes: reference/release-notes.md

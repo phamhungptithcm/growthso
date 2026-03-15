@@ -1,22 +1,34 @@
-# Vì Sao Chúng Ta Xây Dựng Sản Phẩm Này
+# Vì Sao Chúng Ta Xây Dựng GrowthSO
 
-## Ý tưởng cốt lõi
+## Bài toán từ góc nhìn founder
 
-Nhiều doanh nghiệp không thiếu nỗ lực, họ thiếu một hệ thống vận hành tăng trưởng thống nhất. SEO, nội dung, quảng cáo và đánh giá đang nằm rời rạc ở nhiều công cụ.
+Phần lớn doanh nghiệp nhỏ và đội tăng trưởng đang vận hành trên các công cụ rời rạc:
 
-Growth SEO OS được xây dựng để gom các quyết định đó về một nơi:
+- SEO tool để audit,
+- dashboard ads để chi tiêu,
+- nền tảng review để quản lý danh tiếng,
+- và spreadsheet để ra quyết định.
 
-- phát hiện cơ hội,
-- quyết định ưu tiên,
-- tự động hóa thực thi,
-- đo lường tác động kinh doanh.
+Kết quả là thực thi chậm, khó quy trách nhiệm và chi phí tăng trưởng cao.
 
-## Vì sao là bây giờ
+## Luận điểm cốt lõi
 
-1. Hành vi tìm kiếm thay đổi nhanh hơn khả năng vận hành thủ công.
-2. AI giúp giảm chi phí phân tích/nội dung nhưng chưa giải quyết tốt bài toán điều phối.
-3. Chủ doanh nghiệp cần tăng trưởng dự đoán được với ít nhà cung cấp hơn.
+Tăng trưởng phải được vận hành như một hệ điều hành: một mô hình dữ liệu, một lớp quyết định, một vòng lặp thực thi.
+
+GrowthSO thống nhất:
+
+- SEO intelligence,
+- AI content,
+- review và reputation,
+- tối ưu ngân sách ads,
+- và quan sát hiệu quả ở cấp chủ vận hành.
+
+## Vì sao là thời điểm này
+
+1. AI xử lý nhanh hơn, nhưng điều phối vẫn rời rạc.
+2. Search và ads thay đổi nhanh, không thể tối ưu thủ công theo nhịp cũ.
+3. Chủ doanh nghiệp cần kết quả dự đoán được, không chỉ nhiều báo cáo rời.
 
 ## Sứ mệnh
 
-Giúp tổ chức tăng trưởng traffic chất lượng và doanh thu với độ phức tạp vận hành thấp hơn.
+Giúp doanh nghiệp tăng traffic chất lượng và doanh thu với độ phức tạp vận hành thấp hơn.

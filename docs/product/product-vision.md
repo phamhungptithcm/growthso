@@ -1,29 +1,29 @@
 # Product Vision
 
+## Vision Statement
+
+GrowthSO becomes the operating system that every growth-focused business uses to run SEO and digital marketing with AI-assisted precision.
+
 ## Product Promise
 
-Give every business an AI-assisted growth operating system that continuously recommends and executes the highest-impact SEO and marketing actions.
+From one workspace, teams can detect growth opportunities, prioritize what matters, execute faster, and measure business outcomes with confidence.
 
-## Principles
+## Design Principles
 
-- Outcome-first: every feature ties to a measurable KPI.
-- Operational simplicity: fewer dashboards, faster actions.
-- Human-in-the-loop: automation with approval controls.
-- Trust by default: explainable recommendations and audit trails.
+- Outcome-first: every workflow ties to business KPIs.
+- Guided autonomy: AI recommends and automates with approval controls.
+- Unified context: one data model across SEO, ads, content, and reviews.
+- Explainable execution: every recommendation has rationale and history.
 
-## Target Users
+## Target Segments
 
 Primary:
 
 - SMB owners,
-- ecommerce companies,
-- SaaS startups,
-- growth managers,
-- digital marketing teams.
+- ecommerce operators,
+- SaaS growth teams.
 
 Secondary:
 
-- SEO agencies,
-- freelance marketers,
-- franchise operations,
-- multi-location brands.
+- agencies and consultants,
+- franchise and multi-location brands.

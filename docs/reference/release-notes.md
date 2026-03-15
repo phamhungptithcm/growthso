@@ -1,5 +1,18 @@
 # Release Notes
 
+## 2.0.0 - 2026-03-15
+
+- Rebuilt docs into a presentation-grade version based on validated founder intent from shared ideation.
+- Strengthened narrative for startup positioning: Marketing OS for SMB and growth teams.
+- Added new pages:
+  - Market Landscape & Positioning
+  - Presentation Narrative
+  - Product Strategy & Differentiation
+  - 90-Day MVP Execution Plan
+  - Competitive Landscape
+- Updated PRD and system overview to reflect web + mobile scope and scale path to 1M users.
+- Added Vietnamese versions for new strategic pages.
+
 ## 1.1.0 - 2026-03-15
 
 - Performed full archive rescan and merged remaining useful legacy points.

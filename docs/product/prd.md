@@ -1,37 +1,46 @@
 # Product Requirements Document (PRD)
 
+## Product Scope
+
+GrowthSO MVP is a web and mobile platform for AI-assisted SEO and digital growth operations.
+
 ## Problem Statement
 
-Teams struggle with fragmented growth tooling, delayed optimization, and unclear accountability for results.
+Teams cannot maintain fast, coherent optimization across SEO, ads, content, and reputation using fragmented tools.
 
-## Product Scope (MVP)
+## MVP Functional Scope
 
-- SEO audit and issue tracking.
-- Keyword ranking tracker.
-- AI content generation with SEO guidance.
-- Review monitoring and response assistant.
-- Paid ads budget optimization recommendations.
-- Unified growth dashboard.
+1. Domain and business onboarding.
+2. SEO crawl, issue detection, and rank tracking.
+3. AI content brief and draft generation.
+4. Review ingestion, sentiment analysis, and response assistance.
+5. Ads performance ingestion and budget recommendations.
+6. Unified KPI dashboard and action queue.
+7. Role-based workspace controls.
 
-## Functional Requirements
+## Key User Outcomes
 
-1. Domain onboarding and verification.
-2. Scheduled crawling and issue detection.
-3. Keyword monitoring with alerts.
-4. Content brief and article generation workflows.
-5. Review ingestion and sentiment tagging.
-6. Campaign performance ingestion and optimization suggestions.
-7. Role-based access and organization workspace.
+- "I know exactly what to do this week."
+- "I can stop wasted budget earlier."
+- "I can generate SEO content with clear intent alignment."
+- "I can maintain stronger local reputation response discipline."
 
 ## Non-Functional Requirements
 
-- Availability target: `99.9%` for core APIs.
-- P95 API latency target: `< 400ms` for read operations.
-- Daily data freshness SLA for key reports.
-- Full activity logging for critical actions.
+- API availability target: `99.9%`
+- P95 API latency target: `< 400ms` for read endpoints
+- Multi-tenant isolation by organization
+- Daily freshness SLA for owner dashboards
+- Audit logging for critical workflow actions
+
+## Scale & Platform Targets
+
+- Architecture path designed for up to `1M users`
+- Event-driven pipeline for asynchronous workloads
+- Horizontal scaling for API and worker tiers
 
 ## Success Criteria
 
-- Measurable SEO issue reduction within 30 days.
-- Improved conversion efficiency within 60 days.
-- Positive owner-level NPS for reporting clarity.
+- 30-day SEO issue reduction trend
+- 60-day paid efficiency improvement trend
+- Positive stakeholder satisfaction on decision clarity
