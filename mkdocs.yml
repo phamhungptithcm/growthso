@@ -1,9 +1,9 @@
 site_name: Growth SEO OS
 site_description: Story-first production documentation for the AI-powered SEO and marketing operating system.
 site_author: BeFam Product & Engineering Team
-site_url: https://phamhungptithcm.github.io/growthso-docs/
-repo_url: https://github.com/phamhungptithcm/growthso-docs
-repo_name: phamhungptithcm/growthso-docs
+site_url: https://phamhungptithcm.github.io/growthso/
+repo_url: https://github.com/phamhungptithcm/growthso
+repo_name: phamhungptithcm/growthso
 edit_uri: edit/main/docs/
 
 theme:
